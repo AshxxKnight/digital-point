@@ -1,0 +1,84 @@
+/*.form_container{
+		width: 60%;
+		padding: 2.5%;
+		margin-left: 20%;
+		margin-top: 2%; 
+		border-radius: 5px;
+		border: 2px solid #000000;
+		box-shadow: 0px 0px 10px 0 #000000;
+}*/
+/*.form_container p{
+	margin-left: 5%;
+}
+*/
+.form_container input{
+		display: block;
+		width: 90%;
+		line-height: 10%;
+		font-size: 130%;
+		margin-top: 2%;
+		margin-left: 0px;
+	}
+/*.form_container input{
+		display: inline-block;
+		/*float: right;*/
+		/*width: 85%;
+		line-height: 40%;
+		font-size: 80%;
+		margin-top: 2%;
+		
+}*/
+/*.colour{
+	display: block;
+	float: left;
+}*/
+fieldset {
+      overflow: hidden
+    }
+ label {
+      float: left;
+      clear: none;
+      /*width: 80%;*/
+      display: block;
+      font-size: 130%;
+      margin-left: 4%;
+      /*padding: 0px 1em 0px 8px;*/
+    }
+    
+    input[type=radio],
+    input.radio {
+      float: left;
+      clear: none;
+      margin: 2px 0 0 2px;
+    }/*
+.btn{
+	display: inline-block;
+	width: 25%;
+	margin-right: 2%;
+    vertical-align: 0.25em;
+	margin-left: 10%;
+	font-size: 130%;
+}
+#clr{
+	margin-bottom: 2%;
+	vertical-align: 0.25em;
+}*/
+
+#qnty{
+	width: 75%;
+	line-height: 50%;
+	font-size: 90%;
+	/*display: block;
+		width:80%;
+		line-height: 40%;
+		font-size: 80%;
+		margin-top: 5%;
+		margin-left: 0px;*/
+}
+#submit{
+	margin-left: 30%;
+	font-size: 100%;
+}
+#head{
+	font-size: 250%;
+}

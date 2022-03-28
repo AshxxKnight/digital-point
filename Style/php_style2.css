@@ -1,0 +1,36 @@
+#name{
+	margin-left: 5%;
+}
+#mobile{
+	margin-left: 3.5%;
+}
+#new_user{
+	width: 50%;
+	margin-left: 25%;
+}
+@media screen and ( max-width: 1000px) {
+	.form_container{
+		width: 70%;
+		padding: 2.5%;
+		padding-left: 5%;
+		margin-left: 10%;
+		margin-top: 2%; 
+		border-radius: 5px;
+		border: 2px solid #000000;
+		box-shadow: 0px 0px 10px 0 #000000;
+	}
+	.form_container input{
+		display: block;
+		width: 90%;
+		margin-top: 2%;
+	}
+	#name{
+		margin-left: 0%;
+	}
+	#mobile{
+		margin-left: 0%;
+	}
+	#new_user{
+		margin-left: 25%;
+	}
+}
